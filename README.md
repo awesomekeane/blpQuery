@@ -3,7 +3,7 @@ blpQuery
 
 Dependence:
 
-1. Bloomger Terminal
+1. Bloomberg Terminal
 2. win32com
 
 
